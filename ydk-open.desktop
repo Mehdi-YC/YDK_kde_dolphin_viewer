@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=YDK Card Viewer
+Comment=View Yu-Gi-Oh! deck files in browser
+Exec=/usr/local/bin/ydk-open %f
+Icon=applications-games
+Terminal=false
+MimeType=text/x-ydk;
+Categories=Game;Utility;
+StartupNotify=false

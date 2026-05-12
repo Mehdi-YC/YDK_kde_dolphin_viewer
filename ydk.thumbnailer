@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=/usr/local/bin/ydk-preview
+Exec=/usr/local/bin/ydk-preview %i %o %s
+MimeType=text/x-ydk;
